@@ -16,7 +16,7 @@ export default function Header() {
           <Link href="/">
             <img
               src={`/logo.png`}
-              alt="Thirdweb Logo"
+              alt="GVO"
               className={styles.headerLogo}
             />
           </Link>
