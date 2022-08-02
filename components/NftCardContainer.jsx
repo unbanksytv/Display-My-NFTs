@@ -15,7 +15,7 @@ export default function NftCardContainer({ nftCollection }) {
         {nftCollection?.nft_data?.map((nft, key) => (
           <div key={key}>
             <MediaRenderer
-              style={{ width: 128, height: 128, borderRadius: 16, padding: 4 }}
+              style={{ width: 550, height: 550, borderRadius: 16, padding: 4 }}
               src={nft.external_data.image}
               alt="A mp4 video"
             />

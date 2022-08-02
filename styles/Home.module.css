@@ -41,6 +41,7 @@
   justify-content: center;
   width: 100vw;
   padding: 0 24px;
+  font: white
 }
 
 .page {
@@ -79,7 +80,7 @@
 }
 
 .header {
-  background-color: #262936;
+  background-color: #9eaadf;
   position: fixed;
   top: 0;
   left: 0;
@@ -114,7 +115,7 @@
   cursor: pointer;
   text-align: center;
   padding: 5px;
-  color: #fff;
+  color: rgb(215, 48, 48);
   font-weight: 600;
 }
 
@@ -138,7 +139,7 @@
   min-width: 3rem;
   font-size: 1rem;
   background: #e5e5ea;
-  background-image: linear-gradient(to left, #cc25b3 0%, #418dff 101.52%);
+  background-image: linear-gradient(to left, #cea5c8 0%, #d8e3f4 101.52%);
   color: #fff;
   width: 180px;
   text-align: center;

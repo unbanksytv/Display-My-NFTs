@@ -16,6 +16,7 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
   padding-bottom: 250px;
+  font: white
 }
 
 /* Inherit fonts for inputs and buttons */
